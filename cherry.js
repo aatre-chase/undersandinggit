@@ -2,7 +2,7 @@ import React from 'react'
 
 const cherry = () => {
   return (
-    <div>cherry</div>
+    <div>cherry1</div>
   )
 }
 
